@@ -1,0 +1,25 @@
+{
+    "lang": [
+        {
+            "key": "en",
+            "value": "en",
+            "text": "English"
+        },
+        {
+            "key": "fr",
+            "value": "fr",
+            "text": "French"
+        },
+        {
+            "key": "de",
+            "value": "de",
+            "text": "German"
+        },
+        {
+            "key": "vi",
+            "value": "vi",
+            "text": "Vietnamese"
+        }
+    ]
+
+}
